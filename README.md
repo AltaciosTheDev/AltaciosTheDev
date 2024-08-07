@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enzoalturcios) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enzo-altamirano) ![Static Badge](https://img.shields.io/badge/enzo.altamirano98@gmail.com-darkgreen?style=flat&logo=gmail&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enzoalturcios) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enzo-altamirano) ![Static Badge](https://img.shields.io/badge/enzo.altamirano.dev@gmail.com-darkgreen?style=flat&logo=gmail&logoColor=white)
 
 ## 💻 Tech Stack:
 ### Front-End:
