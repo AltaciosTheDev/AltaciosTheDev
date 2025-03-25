@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-Self-taught 🚀 software developer with a B.Sc. in Mechatronics Engineering, experience in software quality assurance, and a background in the automotive industry. Combining expertise in hardware systems, electronics, and full-stack development, I am dedicated to building 🛠️ reliable, scalable, and high-performance software while solving complex problems with logic, creativity 💡, and a commitment to continuous learning 🌱.
+Self-taught software developer 🖥️ with a B.Sc. in Mechatronics Engineering, experience in software quality assurance, and a background in the automotive industry. Combining expertise in hardware systems, electronics, and full-stack development, I am dedicated to building 🛠️ reliable, scalable, and high-performance software while solving complex problems with logic, creativity 💡, and a commitment to continuous learning🌱.
 
 
 ## 🌐 Socials:
